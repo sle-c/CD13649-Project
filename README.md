@@ -4,7 +4,11 @@ Below is a template provided for use when building your README file for students
 
 # Project Title
 
-Project description goes here.
+Now that you've gotten an introduction to the preliminary steps of the machine learning pipeline, it's time for you to take the wheel and analyze some data yourself. You'll be using historical stock prices for two large technology companies, along with several macroeconomic factors. The data is available on a GitHub repo - CD13649-Project(opens in a new tab) - and you'll be using Pandas to import it to your Jupyter notebook.
+
+The focus of this project is practicing data manipulation and exploratory data analysis, or EDA. While the project file includes some suggestions on metrics to calculate and graphs to chart, you should also take this as an opportunity to flex your creative muscles and practice any of the techniques we covered previously that interest you. Don't worry if a specific technique or metric doesn't make perfect sense for this dataset, you're simply looking to gain exposure to using Pandas and matplotlib to explore and understand financial datasets.
+
+Have fun!
 
 ## Getting Started
 
